@@ -1,6 +1,6 @@
 # API de Cadastro de Salas — UFSM
 
-API REST para cadastrar e administrar salas de aula. Projeto desenvolvido como atividade de Programação Orientada a Objetos para Web 2.
+API REST para cadastrar e administrar salas de aula.
 
 ## Tecnologias
 
