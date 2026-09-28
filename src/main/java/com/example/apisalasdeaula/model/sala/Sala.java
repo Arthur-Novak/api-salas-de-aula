@@ -1,4 +1,4 @@
-package com.example.apisalasdeaula.model;
+package com.example.apisalasdeaula.model.sala;
 
 import io.swagger.v3.oas.annotations.media.Schema;
 import jakarta.persistence.Column;

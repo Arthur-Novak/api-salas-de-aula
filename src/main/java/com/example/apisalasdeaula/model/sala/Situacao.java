@@ -1,4 +1,4 @@
-package com.example.apisalasdeaula.model;
+package com.example.apisalasdeaula.model.sala;
 
 public enum Situacao {
     DISPONIVEL,
