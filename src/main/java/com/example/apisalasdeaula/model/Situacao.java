@@ -1,4 +1,7 @@
 package com.example.apisalasdeaula.model;
 
-public class Situacao {
+public enum Situacao {
+    DISPONIVEL,
+    EM_REFORMA,
+    INTERDITADA
 }
